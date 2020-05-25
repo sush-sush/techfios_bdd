@@ -21,4 +21,5 @@ Scenario Outline: C235 -  Create a new account
 	|username	           |password|title   |description|amount|
 	|techfiosdemo@gmail.com|abc123  |piya    |goodes     |20    |
 	|techfiosdemo@gmail.com|abc123  |Sandwich|veg        |7     |
+	|techfiosdemo@gmail.com|abc123  |Biryani |Nonveg     |15    |
 	                                
